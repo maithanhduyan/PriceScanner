@@ -1,0 +1,15 @@
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\PriceScanner.exe.config
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\PriceScanner.XML
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\PriceScanner.exe
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\PriceScanner.pdb
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.Form1.resources
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.Properties.Resources.resources
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.csproj.GenerateResource.Cache
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.exe
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.pdb
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\PriceScanner.exe.manifest
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\bin\Debug\PriceScanner.application
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.exe.manifest
+c:\Users\iamroot\Documents\Visual Studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.application
+C:\Users\iamroot\documents\visual studio 2015\Projects\PriceScanner\PriceScanner\obj\Debug\PriceScanner.csprojResolveAssemblyReference.cache
