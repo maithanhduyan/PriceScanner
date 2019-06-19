@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceScanner", "PriceScanner\PriceScanner.csproj", "{4147F786-003B-400E-809E-DB55DFB308BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Syn2DB", "Syn2DB\Syn2DB.csproj", "{87A37A74-CD51-4653-BA92-D2D08FDEFECF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{4147F786-003B-400E-809E-DB55DFB308BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4147F786-003B-400E-809E-DB55DFB308BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4147F786-003B-400E-809E-DB55DFB308BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A37A74-CD51-4653-BA92-D2D08FDEFECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A37A74-CD51-4653-BA92-D2D08FDEFECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A37A74-CD51-4653-BA92-D2D08FDEFECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A37A74-CD51-4653-BA92-D2D08FDEFECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FDAAEB5-6707-49CE-9B89-F7C34807896F}
 	EndGlobalSection
 EndGlobal
